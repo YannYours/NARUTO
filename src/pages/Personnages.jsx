@@ -45,18 +45,7 @@ export default function Personnages() {
       <div className="d-flex justify-content-center my-5">
         <CharacterCarousel characters={characters} />
       </div>
-      <footer
-        style={{
-          backgroundColor: "#333",
-          color: "#fff",
-          textAlign: "center",
-          padding: "20px 0",
-        }}
-      >
-        <p style={{ margin: 0, fontSize: 14 }}>
-          © 2025 Assoué Yann Florian. All rights reserved.
-        </p>
-      </footer>
+      
     </>
   );
 }
