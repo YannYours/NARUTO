@@ -14,10 +14,10 @@ import rencontre_sasuke from "../medias/rencontre-sasuke.jpg"
 import sauvetage_kazekage from "../medias/sauvetage-kazekage.jpg"
 import suppression_akatsuki from "../medias/suppression-akatsuki.png"
 import combat_final from "../medias/combat-final.jpg"
-import attaque_kaguya from "../medias/attaque-kaguya.webp"
+import attaque_kaguya from "../medias/attaque-kaguya.png"
 import obito_jinchuriki from "../medias/obito-jinjuriki.jpg"
 import sommet_kage from "../medias/sommet-kage.jpg"
-import guerre_ninja from "../medias/guerre-ninja.webp"
+import guerre_ninja from "../medias/guerre-ninja.png"
 
 export default function Battailles() {
     return (
