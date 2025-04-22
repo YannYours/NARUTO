@@ -56,7 +56,7 @@ export default function Header() {
                         <ul className="navbar-nav ms-auto">
                             <li className="nav-item"><a className="nav-link" href="/personnages">Personnages</a></li>
                             <li className="nav-item"><a className="nav-link" href="/batailles">Grandes batailles/Arcs</a></li>
-                            <li className="nav-item"><a className="nav-link" href="#apropos">à propos</a></li>
+                            <li className="nav-item"><a className="nav-link" href="/apropos">à propos</a></li>
                         </ul>
                     </div>
                 </div>
