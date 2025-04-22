@@ -31,7 +31,7 @@ export default function Hero3() {
 
 
     return (
-        <section className="personnages-section position-relative py-5" id="personnages">
+        <section className="personnages-section position-relative py-5" id="personnages" style={{ marginTop : '8rem'}}>
             <div className="container">
                 <div className="row mb-4">
                     <div className="col-12 text-center fade-in">

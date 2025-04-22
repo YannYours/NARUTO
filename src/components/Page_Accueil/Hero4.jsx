@@ -3,7 +3,7 @@ import kunai from "../../medias/kunai.gif";
 export default function Hero4() {
     return (
         <>
-            <section className="hero4 position-relative" style={{ height: '34rem' }} >
+            <section className="hero4 position-relative" style={{ height: '34rem', marginTop : '8rem' }} >
                 <div className="container">
                     <div className="d-flex align-items-center justify-content-center">
                         <div className="col-lg-12 hero-content">
